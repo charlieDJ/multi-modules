@@ -18,6 +18,7 @@
         </dependency>
     </dependencies>
 
+    <!--启动类在web模块中，所以得把maven插件放在web模块-->
     <build>
         <plugins>
             <plugin>
